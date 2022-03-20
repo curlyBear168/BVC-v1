@@ -479,7 +479,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
- Christina, the Tech Lead of the project, a experienced full stack developer, and is in love with blockchain in recent years. She loves drawing, meditating & reading in her spare time.             
+ Christina, the Tech Lead of the project, an experienced full stack developer, and is in love with blockchain in recent years. She loves drawing, meditating & reading in her spare time.             
            </s.TextTitle>            
             </s.TextTitle>  
         </s.Container>  
