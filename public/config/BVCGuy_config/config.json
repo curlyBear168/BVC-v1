@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3b3092E17A371D6165332BeaE36CC86E5C5693B2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3b3092E17A371D6165332BeaE36CC86E5C5693B2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Guy CURLY BEAR",
+  "SYMBOL": "BVC-Guy",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "/#",
+  "SHOW_BACKGROUND": true
+}

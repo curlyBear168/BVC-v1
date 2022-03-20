@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6f11dEcDaD406ccded484dDAC8D6d3170E4a09Fa",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6f11dEcDaD406ccded484dDAC8D6d3170E4a09Fa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Girl",
+  "SYMBOL": "CG",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "/#",
+  "SHOW_BACKGROUND": true
+}
